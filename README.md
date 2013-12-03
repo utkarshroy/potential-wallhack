@@ -1,4 +1,4 @@
 potential-wallhack
 ==================
 
-Poentential wallhack, as the name says it.
+Potential wallhack, as the name says it.
